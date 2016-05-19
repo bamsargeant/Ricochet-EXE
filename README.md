@@ -1,3 +1,3 @@
 # Ricochet-Game
 
-Open folder and run RPG.exe
+Open folder and run game.exe
