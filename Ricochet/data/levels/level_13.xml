@@ -1,0 +1,55 @@
+<?xml version="1.0"?>	
+<!-- BLENDER LEVEL 4 - AUTHOR ANDREW DIGGINS -->
+<!-- ORIGINAL LEVEL 4 -->
+<root>
+	<object type="score" gold="2" silver="6" />
+	<object type="text" pos="-3.2,-4" rotation="-45" text="level 13" r="255" g="255" b="255" a="100" font="elemental-end-30" h_align="left" v_align="bottom" />
+	<object type="color" r="0" g="0" b="1" />
+	<!-- HOLE -->
+	<object type="hole" position="11.7,5" />
+
+	<!-- LASERS -->
+	<object type="laser" position="-3.65,-3.65" rotation="45" />
+	<object type="laser" position="3.65,3.65" rotation="225" />
+	
+	<!-- PLAYER -->
+	<object type="player" position="-11.7,-5" />
+	
+	<!-- WALLS -->
+	<!-- WALLS ON THE EDGE OF THE SCREEN -->
+	<object type="wall" position="-19,0" size="1,22" rotation="0"/>
+	<object type="wall" position="19,0" size="1,22" rotation="0"/>
+	<object type="wall" position="0,-10.5" size="37,1" rotation="0"/>
+	<object type="wall" position="0,10.5" size="37,1" rotation="0"/>
+
+	<!-- BACKGROUND BARRIERS -->
+	<object type="wall" position="-15.1,6.7" size="21.7,11" rotation="45"/>
+	<object type="wall" position="5,9.3" size="11.5,8" rotation="-45"/>
+	<object type="wall" position="18.1,9.6" size="13.8,11.5" rotation="-45"/>
+	<object type="wall" position="14.1,-8" size="19.2,11.6" rotation="45"/>
+	<object type="wall" position="-5,-9.2" size="11.4,7.8" rotation="-45"/>
+	<object type="wall" position="-17,-10.3" size="11,11" rotation="-45"/>
+	
+	<!-- OUTER FRAME, clockwise starting top left -->
+	<object type="wall" position="-9.8,3.7" size="19.3,1" rotation="45"/>
+	<object type="wall" position="1.7,6.3" size="12,1" rotation="-45"/>
+	<object type="wall" position="9,4.5" size="8.8,1" rotation="45"/>
+	<object type="wall" position="14,5" size="6,1" rotation="-45"/>
+	<object type="wall" position="9.8,-3.7" size="19.3,1" rotation="45"/>
+	<object type="wall" position="-1.7,-6.3" size="12,1" rotation="-45"/>
+	<object type="wall" position="-9,-4.5" size="8.8,1" rotation="45"/>
+	<object type="wall" position="-14,-5" size="6,1" rotation="-45"/>
+	
+	<!-- CENTER BARRIERS + Lasers-->
+	<object type="wall" position="1.5,1.5" size="1,1" rotation="45"/>
+	<object type="wall" position="-1.5,-1.5" size="1,1" rotation="45"/>
+
+	<!-- PLATFORMS -->
+
+	<!-- BORDER -->
+	<object type="wall" position="0,13" size="38,5" rotation="0"/> 		<!-- top -->
+	<object type="wall" position="0,-13" size="38,5" rotation="0"/> 	<!-- bottom -->
+	<object type="wall" position="-21.5,0" size="5,31" rotation="0"/> 	<!-- left -->
+	<object type="wall" position="21.5,0" size="5,31" rotation="0"/> 	<!-- right -->
+	
+</root>

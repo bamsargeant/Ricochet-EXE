@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!-- BLENDER LEVEL 8 - AUTHOR ANDREW DIGGINS -->
+<!-- ORIGINAL LEVEL 8 -->
+<root>
+	<object type="score" gold="7" silver="10" />
+	<object type="text" pos="-9.9,-8" rotation="0" text="level 9" r="255" g="255" b="255" a="100" font="elemental-end-30" h_align="left" v_align="bottom" />
+	<object type="color" r="1" g="0" b="0" />
+	<!-- HOLE -->
+	
+	<object type="hole" position="-7,7" />
+
+	<!-- LASERS -->
+	<object type="laser" position="5,0" rotation="270" p1="-3,0.5" p2="1,0.5" moving="1" duration="5" time="0" start_angle="0" delta_angle="45" rotation_duration="1" rotating="0" rotation_time="0" />
+	<object type="laser" position="0,0" rotation="270" p1="1,0.5" p2="5,0.5" moving="1" duration="5" time="0" start_angle="0" delta_angle="45" rotation_duration="1" rotating="0" rotation_time="0" />
+	
+	<!-- PLAYER -->
+	<object type="player" position="9,7" />
+	
+	<!-- WALLS -->
+	<object type="wall" position="0,9.25" size="38,2.5" rotation="0"/>
+	<object type="wall" position="0,-9.25" size="38,2.5" rotation="0"/>
+	<object type="wall" position="-14.5,0" size="9,16" rotation="0"/>
+	<object type="wall" position="1,4.25" size="10,7.5" rotation="0"/>
+	<object type="wall" position="15.5,0" size="7,16" rotation="0"/>
+	<object type="wall" position="-3,-2" size="1,1" rotation="0"/>
+	<object type="wall" position="-1, -2" size="1,1" rotation="0"/>
+	<object type="wall" position="1, -2" size="1,1" rotation="0"/>
+	<object type="wall" position="3, -2" size="1,1" rotation="0"/>
+	<object type="wall" position="5, -2" size="1,1" rotation="0"/>
+
+	<!-- PLATFORMS -->
+	<object type="platform" position="0,0" size="2.5,1" rotation="0" moves="1" p1="-4,-5" p2="6,-5" duration="2" time="0" />
+
+	<!-- BORDER -->
+	<object type="wall" position="0,13" size="38,5" rotation="0"/> 		<!-- top -->
+	<object type="wall" position="0,-13" size="38,5" rotation="0"/> 	<!-- bottom -->
+	<object type="wall" position="-21.5,0" size="5,31" rotation="0"/> 	<!-- left -->
+	<object type="wall" position="21.5,0" size="5,31" rotation="0"/> 	<!-- right -->
+	
+</root>

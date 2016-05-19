@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- IMAGES -->
+	<asset type="image" path="media/images/bronze.png" />
+	<asset type="image" path="media/images/silver.png" />
+	<asset type="image" path="media/images/gold.png" />
+	
+	<asset type="image" path="media/images/arrow_idle.png" />
+	<asset type="image" path="media/images/arrow_active.png" />
+	<asset type="image" path="media/images/arrow_inactive.png" />
+	
+	<asset type="image" path="media/images/level_complete.png" />
+	<asset type="image" path="media/images/title.png" />
+	<asset type="image" path="media/images/glow.png" />
+	<asset type="image" path="media/images/trophey.png" />
+	<asset type="image" path="media/images/achieve_glow.png" />
+	<asset type="image" path="media/images/loading.png" />
+	<asset type="image" path="media/images/laser_beam.png" />
+	<asset type="image" path="media/images/laser_end.png" />
+	<asset type="image" path="media/images/laser_head.png" />
+	<asset type="image" path="media/images/hole_on.png" />
+	<asset type="image" path="media/images/hole_off.png" />
+	<asset type="image" path="media/images/switch_off.png" />
+	<asset type="image" path="media/images/switch_on.png" />
+	
+	<asset type="image" path="media/images/SSL1.png" />	
+	<asset type="image" path="media/images/SSL2.png" />	
+	<asset type="image" path="media/images/SSL3.png" />	
+	<asset type="image" path="media/images/SSL4.png" />	
+	<asset type="image" path="media/images/SSL5.png" />	
+	<asset type="image" path="media/images/SSL6.png" />	
+	<asset type="image" path="media/images/SSL7.png" />	
+	<asset type="image" path="media/images/SSL8.png" />	
+	<asset type="image" path="media/images/SSL9.png" />	
+	<asset type="image" path="media/images/SSL10.png" />	
+	<asset type="image" path="media/images/SSL11.png" />	
+	<asset type="image" path="media/images/SSL12.png" />	
+	<asset type="image" path="media/images/SSL13.png" />	
+	<asset type="image" path="media/images/SSL14.png" />	
+	<asset type="image" path="media/images/SSL15.png" />	
+	<asset type="image" path="media/images/SSL16.png" />	
+	<asset type="image" path="media/images/SSL17.png" />	
+	<asset type="image" path="media/images/SSL18.png" />	
+	<asset type="image" path="media/images/SSL19.png" />	
+	<asset type="image" path="media/images/SSL20.png" />	
+	<asset type="image" path="media/images/SSL21.png" />	
+	<asset type="image" path="media/images/SSL22.png" />	
+	<asset type="image" path="media/images/SSL23.png" />	
+	<asset type="image" path="media/images/SSL24.png" />	
+	<asset type="image" path="media/images/SSL25.png" />	
+	<asset type="image" path="media/images/SSL26.png" />	
+	<asset type="image" path="media/images/SSL27.png" />	
+	<asset type="image" path="media/images/SSL28.png" />	
+	<asset type="image" path="media/images/SSL29.png" />	
+	<asset type="image" path="media/images/SSL30.png" />	
+	<asset type="image" path="media/images/SSL31.png" />	
+	<asset type="image" path="media/images/SSL32.png" />	
+	<asset type="image" path="media/images/SSL33.png" />	
+	<asset type="image" path="media/images/SSL34.png" />	
+	<asset type="image" path="media/images/SSL35.png" />	
+
+	<!-- SOUNDS -->
+	<asset type="sound" path="media/sounds/AchievementUnlocked.wav" />
+	<asset type="sound" path="media/sounds/bounce.wav" />
+	<asset type="sound" path="media/sounds/explosion.wav" />
+	<asset type="sound" path="media/sounds/shoot.wav" />
+	<asset type="sound" path="media/sounds/victory.wav" />
+	<asset type="sound" path="media/sounds/click.wav" />
+	<asset type="sound" path="media/sounds/menu_click.wav" />
+	<asset type="sound" path="media/sounds/switch.wav" />
+
+	<!-- MUSIC -->
+	<asset type="music" path="media/music/music1.ogg" />
+	<asset type="music" path="media/music/music2.ogg" />
+	<asset type="music" path="media/music/music3.ogg" />
+	<asset type="music" path="media/music/AirHockey.ogg" />
+	<asset type="music" path="media/music/Divider.ogg" />
+
+	<!-- FONTS -->
+	<asset type="font" path="media/fonts/purista-medium-14/" />
+	<asset type="font" path="media/fonts/elemental-end-30/" />
+	<asset type="font" path="media/fonts/segoe-ui-light-48/" />
+	<asset type="font" path="media/fonts/segoe-ui-light-20/" />
+</root>
