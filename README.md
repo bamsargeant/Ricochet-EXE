@@ -6,7 +6,7 @@ This was an assignment for the capstone course of Macquarie University "Video Ga
 
 This repository is a reupload of the project, the complete project can be found with comments here: https://github.com/gotariz/COMP352_Project
 
-I was in charge of UI: menus, options, sounds and some level design; while Tom was in charge of physics and level implementation. 
+I was in charge of UI: menus, options, sounds and some level design; while Tom was in charge of the game engine and level implementation. 
 
 Gameplay: https://www.youtube.com/watch?v=9vuzlvKLpb8
 
